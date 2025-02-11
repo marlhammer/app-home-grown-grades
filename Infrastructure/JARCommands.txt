@@ -1,0 +1,2 @@
+jar cvfm HomeGrownGrades.jar MANIFEST.txt HomeGrownGrades/*.class helpManual.html
+java -jar HomeGrownGrades.jar
